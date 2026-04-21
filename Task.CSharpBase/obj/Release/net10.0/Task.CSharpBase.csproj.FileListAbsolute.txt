@@ -1,0 +1,15 @@
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net10.0\Task.CSharpBase.exe
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net10.0\Task.CSharpBase.deps.json
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net10.0\Task.CSharpBase.runtimeconfig.json
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net10.0\Task.CSharpBase.dll
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net10.0\Task.CSharpBase.pdb
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\Task.CSharpBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\Task.CSharpBase.AssemblyInfoInputs.cache
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\Task.CSharpBase.AssemblyInfo.cs
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\Task.CSharpBase.csproj.CoreCompileInputs.cache
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\Task.CSharpBase.sourcelink.json
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\Task.CSharpBase.dll
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\refint\Task.CSharpBase.dll
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\Task.CSharpBase.pdb
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\Task.CSharpBase.genruntimeconfig.cache
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net10.0\ref\Task.CSharpBase.dll

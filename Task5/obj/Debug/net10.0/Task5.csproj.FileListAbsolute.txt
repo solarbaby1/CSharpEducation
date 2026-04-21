@@ -1,0 +1,15 @@
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\bin\Debug\net10.0\Task5.exe
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\bin\Debug\net10.0\Task5.deps.json
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\bin\Debug\net10.0\Task5.runtimeconfig.json
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\bin\Debug\net10.0\Task5.dll
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\bin\Debug\net10.0\Task5.pdb
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\Task5.AssemblyInfoInputs.cache
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\Task5.AssemblyInfo.cs
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\Task5.csproj.CoreCompileInputs.cache
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\Task5.sourcelink.json
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\Task5.dll
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\refint\Task5.dll
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\Task5.pdb
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\Task5.genruntimeconfig.cache
+D:\EducationProject\CSharpProject\CSharpEducation.Practice\CSharpEducation.Practice\Task5\obj\Debug\net10.0\ref\Task5.dll

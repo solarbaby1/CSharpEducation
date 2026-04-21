@@ -1,0 +1,30 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="CheckIn" />
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Folder Name="/practice1/">
+    <Project Path="Task.CSharpBase/practice1.task1A.csproj">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task1B/practice1.Task1B.csproj" />
+    <Project Path="Task2/practice1.Task2.csproj" Id="44dee1c4-1e33-4b12-af50-963c10c5cec2">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task3/practice1.Task3.csproj" Id="d874566a-fe1e-4001-8b7e-1b6b511b08c2">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task4/practice1.Task4.csproj" Id="2efad865-8812-49ff-89a1-33241ccd0881">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task5/practice1.Task5.csproj" Id="a3dbf9ce-5324-42de-bc13-26a97fa094fd">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+  </Folder>
+  <Folder Name="/Practice2/">
+    <Project Path="Practice2.Task1/Practice2.Task1..csproj" Id="8927ee00-c13c-44f2-9cf5-9199abb49b26">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+  </Folder>
+</Solution>
