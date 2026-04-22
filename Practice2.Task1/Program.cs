@@ -152,23 +152,23 @@ namespace Practice2.Task1_
             // Метры в километры
 
 
-            Console.WriteLine("метры в километры");
+            // Метры в километры
 
-            Console.WriteLine("М=");
 
-            int x= 
-           
             
+            Console.WriteLine("Метры в километры");
 
+            Console.Write("Введите метры: ");
 
+            int metr = int.Parse(Console.ReadLine());
 
+            int x = 1000;
 
+            double km = metr / (double)x;
 
+            Console.WriteLine("Километры: " + km);
 
-
-
-
-
+            Console.ReadKey(); // чтобы окно не закрылось сразу
 
         }
     }
